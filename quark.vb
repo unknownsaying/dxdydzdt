@@ -7,6 +7,6 @@ momentum : < & & & & & >
 charge : ( -1/3 | 2/3 | -1/3 | -1/3 | 2/3 | 2/3 )
 mass-charge-scale : ( | | | | | )
 spin : [1/2 = 1/2 = 1/2 = 1/2 = 1/2 = 1/2 ]
-mass-spin-propability : [ = = = = = = ]
+mass-spin-propability : [ = = = = = ]
 color : || red && green && blue || 
 End Enum
